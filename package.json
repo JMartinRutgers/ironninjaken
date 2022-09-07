@@ -1,5 +1,5 @@
 {
-    "homepage": "https:/jorgemelchor.github.io/ironninjaken",
+    "homepage": "https://github.com/JMartinRutgers/ironninjaken",
     "name": "ironninjaken",
     "version": "0.1.0",
     "private": true,
@@ -45,6 +45,7 @@
         ]
     },
     "devDependencies": {
+        "gh-pages": "^4.0.0",
         "react-app-alias": "^2.2.1"
     }
 }
