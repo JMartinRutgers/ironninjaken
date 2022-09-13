@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JMartinRutgers/ironninjaken/static/css/main.bfd67400.css",
-    "main.js": "/JMartinRutgers/ironninjaken/static/js/main.7730b5f9.js",
-    "static/media/ninjaken.mp4": "/JMartinRutgers/ironninjaken/static/media/ninjaken.d919695f224621896802.mp4",
-    "static/media/Me.mp4": "/JMartinRutgers/ironninjaken/static/media/Me.59fcef32cdbb8f72a821.mp4",
-    "index.html": "/JMartinRutgers/ironninjaken/index.html",
-    "main.bfd67400.css.map": "/JMartinRutgers/ironninjaken/static/css/main.bfd67400.css.map",
-    "main.7730b5f9.js.map": "/JMartinRutgers/ironninjaken/static/js/main.7730b5f9.js.map"
+    "main.css": "./static/css/main.bfd67400.css",
+    "main.js": "./static/js/main.51a9c35b.js",
+    "static/media/ninjaken.mp4": "./static/media/ninjaken.d919695f224621896802.mp4",
+    "static/media/Me.mp4": "./static/media/Me.59fcef32cdbb8f72a821.mp4",
+    "index.html": "./index.html",
+    "main.bfd67400.css.map": "./static/css/main.bfd67400.css.map",
+    "main.51a9c35b.js.map": "./static/js/main.51a9c35b.js.map"
   },
   "entrypoints": [
     "static/css/main.bfd67400.css",
-    "static/js/main.7730b5f9.js"
+    "static/js/main.51a9c35b.js"
   ]
 }
